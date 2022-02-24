@@ -1,7 +1,7 @@
 # iOS-Portfolio-Lembke22
-What I've done throughout my time at EPHS
+basically what I've done throughout my time at EPHS
 
-Adv. iOS
+### Adv. iOS
 -
 
 iOS
