@@ -12,4 +12,4 @@ basically what I've done throughout my time at EPHS
 
 ### AP Computer Science Principle
 * My very first form of what is *technically* code. In MIT App Inventor I created Yahtzee as well, but with block coding.
-![Screen Shot 2022-02-24 at 11 27 06 AM](https://user-images.githubusercontent.com/60675994/155734207-a2dca7d0-e8c3-4a46-b43d-148def9cc7bf.png)
+[Screen Shot 2022-02-24 at 11 27 06 AM](https://user-images.githubusercontent.com/60675994/155734207-a2dca7d0-e8c3-4a46-b43d-148def9cc7bf.png)
