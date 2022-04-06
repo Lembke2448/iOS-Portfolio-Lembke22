@@ -2,9 +2,11 @@
 basically what I've done throughout my time at EPHS
 
 ### Adv. iOS Mobile App Development
-* I worked in group to create a bubble-shooting word game. Wordle was very popular at this time, so we were enthusiastic in making an app related to that.
+* I worked in group to create a [bubble-shooting word game](https://github.com/EPHS-iOS/BubbleWords). Wordle was very popular at this time, so we were enthusiastic in making an app related to that.
+* Old Repostiories:
+* [archived BubbleWords repo](https://github.com/90306561/BubbleWords)
+* [archived jake-evan-erik repo that broke lol](https://github.com/EPHS-iOS/jake-evan-erik)
 * ![Screen Shot 2022-04-06 at 10 53 05 AM](https://user-images.githubusercontent.com/60675994/162016615-9b4ccfce-b6b2-4172-88df-7c83ce1dc091.png)
-
 
 ### iOS Mobile App Development
 * I created a simple Pokémon fighting app. It took conditionals assigned to 
