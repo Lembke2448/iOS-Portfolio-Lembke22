@@ -1,7 +1,7 @@
 # iOS-Portfolio-Lembke22
-basically what I've done throughout my time at EPHS
+basically all of the nerd stuff I've done throughout my time at EPHS
 
-### Adv. iOS Mobile App Development
+### Advanced iOS Mobile App Development
 * I worked in group to create a [bubble-shooting word game](https://github.com/EPHS-iOS/BubbleWords). Wordle was very popular at this time, so we were enthusiastic in making an app related to that.
 
 Old Repostiories:
