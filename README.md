@@ -3,7 +3,7 @@ Hey, my name is Evan Lembke. Here is a compilation of all of the nerd stuff that
 
 
 ### Advanced iOS Mobile App Development
-* I worked in a group to create a [bubble-shooting word game](https://github.com/EPHS-iOS/BubbleWords). Wordle was very popular at this time, so we were enthusiastic in making an app related to that. It was the heyday of creating varients of the original, so that was where our inspiration came from. We had experience in moving parts with a velocity,
+* I worked in a group to create a [bubble-shooting word game](https://github.com/EPHS-iOS/BubbleWords). Wordle was very popular at this time, so we were enthusiastic in making an app related to that. It was the heyday of creating varients of the original, so that was where our inspiration came from. We had experience in giving an object with a velocity, so we decided to make a word version of the many match-3 bubble shooters, like [Puzzle Bobble](https://en.wikipedia.org/wiki/Puzzle_Bobble).
 
 Old Repostiories:
 * [archived BubbleWords repo](https://github.com/90306561/BubbleWords)
