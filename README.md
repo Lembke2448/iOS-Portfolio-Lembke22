@@ -1,5 +1,5 @@
 # iOS-Portfolio-Lembke22
-basically all of the nerd stuff I've done throughout my time at EPHS
+Hey, my name is Evan Lembke. Here is a compilation of all of the nerd stuff that I have done, created, or participated in throughout my time at Eden Prairie High School. The world of technology has always been fascinating to me and taking these classes pretty much cemented my career field. From learning the blocky, clunky fundementals to feeling ectascy when the 23 errors are finally fixed and compiled, computer science has been a blast.
 
 
 ### Advanced iOS Mobile App Development
