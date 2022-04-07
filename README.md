@@ -5,8 +5,6 @@ Hey, my name is Evan Lembke. Here is a compilation of all of the nerd stuff that
 
 ### Advanced iOS Mobile App Development
 * I worked in a group to create a [bubble-shooting word game](https://github.com/90306561/BubbleWords). Wordle was very popular at this time, so we were enthusiastic in making an app related to that. It was the heyday of creating varients of the original, so that was where our inspiration came from. We had experience in giving an object with a velocity, so we decided to make a word version of the many match-3 bubble shooters, like [Puzzle Bobble](https://en.wikipedia.org/wiki/Puzzle_Bobble). We encountered some difficulty when we decided it would be a good idea to change the name of our name without looking up how to do it. In short, a bunch of location errors made the program impossible to run and we had to start from scratch. At the moment, we have a successful app that can spell words from cannon shots.
-
-Old Repository:
 * [archived renaming failure repo that broke lol](https://github.com/EPHS-iOS/jake-evan-erik)
 * ![Screen Shot 2022-04-06 at 10 53 05 AM](https://user-images.githubusercontent.com/60675994/162016615-9b4ccfce-b6b2-4172-88df-7c83ce1dc091.png)
 
