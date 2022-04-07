@@ -15,7 +15,7 @@ Old Repositories:
 * I created a simple Pokémon fighting app with a partner. I was in charge of programming while they wanted to do the art. The way that this app works is that it follows a very simple Rock-Paper-Scissors format in dealing damage. It took very basic randomizition initializations to determine what was assigned and you have a better chance to "catch" the opposing Pokémon when the health. You even have a chance to get a different colored "shiny" varient when you played.
 
 ### AP Computer Science A (Java)
-* I created a Yahtzee program to be played in the Terminal, or the only in the application itself, because I don't know what the correct technical term is. My intention was to have a bunch of card games and/or dice games all together in one program, but ended up with finding a means to describe how to work the code with just a text box.
+* I created a Yahtzee program to be played in the Terminal, or the only in the application itself, because I don't know what the correct technical term is. My intention was to have a bunch of card games and/or dice games all together in one program, but ended up with only creating Yahtzee and finding a means to describe how to work the app with just a text box.
 
 
 ### AP Computer Science Principles
